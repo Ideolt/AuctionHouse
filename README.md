@@ -36,6 +36,8 @@ Commands
 
 /ah cancel (cancels the specific auction if you are the owner of it)
 
+/ah notes (to finish any auctions that finished while you wore offline / with full inventory) 
+
 /ah ac (shows the number of running auctions)
 
 
