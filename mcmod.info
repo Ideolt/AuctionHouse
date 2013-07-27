@@ -1,0 +1,19 @@
+[
+{
+  "modid": "AH",
+  "name": "AuctionHouse",
+  "description": "Auctions for easyer item trading-selling",
+  "version": "0.1",
+  "credits": "Team Skilas",
+  "logoFile": "",
+  "mcversion": "1.4.7",
+  "url": "http://www.minecraftforge.net/forum/index.php/topic,10805.0.html",
+  "updateUrl": "",
+  "authors": [ "Ideo"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "MinecraftForge,PermissionEx"
+  ]
+}
+]
